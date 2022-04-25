@@ -212,22 +212,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "16508559622650bf32": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{{ product.metafields.my_fields.sample }}",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "product-recommendations",
-    "16508559622650bf32"
+    "product-recommendations"
   ]
 }
