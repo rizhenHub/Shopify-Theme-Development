@@ -16,6 +16,11 @@
         "show_text_below": false
       }
     },
+    "1651118601706deee0": {
+      "type": "infinite-carousel",
+      "settings": {
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -178,6 +183,7 @@
   },
   "order": [
     "image_banner",
+    "1651118601706deee0",
     "rich_text",
     "featured_collection",
     "collage",
