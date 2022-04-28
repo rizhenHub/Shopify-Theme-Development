@@ -10,6 +10,11 @@
       content: '';
       display: block;
     }
+    {% if section.settings.image_3 != blank %}
+      #Banner-{{ section.id }} {
+        display:none;
+      }
+    {% endif %}
   }
 
   @media screen and (min-width: 750px) {
