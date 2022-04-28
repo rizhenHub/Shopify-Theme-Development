@@ -15,7 +15,7 @@
         }
 
       }
-   {% endunless %}
+   
 
   @media screen and (min-width: 750px) {
     #Banner-{{ section.id }}::before,
@@ -25,6 +25,7 @@
       display: block;
     }
   }
+	{% endunless %}
   {%- endstyle -%}
 {%- endif -%}
 
