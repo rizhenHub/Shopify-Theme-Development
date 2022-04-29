@@ -1,0 +1,89 @@
+<style>
+section.desktop-banner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  
+  section.desktop-banner img {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    max-width: 1175px;
+    width: 100%;
+  }
+  
+  section.mobile-banner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    display: none;
+  }
+  
+  section.mobile-banner img {
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    max-width: 750px;
+    width: 100%;
+  }
+  
+  @media (max-width: 750px) {
+    section.mobile-banner {
+      display: block;
+    }
+    section.desktop-banner {
+      display: none;
+    }
+  }
+</style>
+
+<section class="desktop-banner">
+    <img src="{{ section.settings.image | image_url }}" alt="desktop-banner" loading="lazy" width="" height="">
+</section>
+<section class="mobile-banner">
+    <img src="{{ section.settings.image_2 | image_url }}" alt="mobile-banner" loading="lazy" width="" height="">
+</section>
+
+{% schema %}
+{
+    "name": "Custom Banner",
+    "tag": "section",
+    "class": "section",
+    "settings": [
+    {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Desktop Banner"
+    },
+    {
+        "type": "image_picker",
+        "id": "image_2",
+        "label": "Mobile Banner"
+    }
+    ],
+    "presets": [
+    {
+    "name": "Custom Banner"
+    }
+    ]
+}
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
