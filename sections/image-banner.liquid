@@ -10,11 +10,6 @@
       content: '';
       display: block;
     }
-    {%- if section.settings.image_3 != blank -%}
-      shopify-section-{{ section.id }} {
-        display:none !important;
-      }
-    {%- endif -%}
   }
 
   @media screen and (min-width: 750px) {
@@ -127,11 +122,6 @@
       "type": "image_picker",
       "id": "image_2",
       "label": "t:sections.image-banner.settings.image_2.label"
-    },
-    {
-      "type": "image_picker",
-      "id": "image_3",
-      "label": "mobile image"
     },
     {
       "type": "range",
