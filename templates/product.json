@@ -140,12 +140,66 @@
         "image": "shopify:\/\/shop_images\/as-seen-on-color-desktop2-peach_1500x_74bd5c4b-a45c-48d1-8dec-a7e87df2b3ef.gif",
         "image_2": "shopify:\/\/shop_images\/as-seen-on-mobile-peach_750x_1d3e7385-3e19-41e6-8ce4-d5c5a17cd744.gif"
       }
+    },
+    "1651461082ce0b2267": {
+      "type": "multicolumn",
+      "blocks": {
+        "1651461082372fa8d0-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651461082372fa8d0-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1651461082372fa8d0-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651461082372fa8d0-0",
+        "1651461082372fa8d0-1",
+        "1651461082372fa8d0-2"
+      ],
+      "settings": {
+        "title": "Your lash routine just got easier & better",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "product-recommendations",
-    "1651460511003418ba"
+    "1651460511003418ba",
+    "1651461082ce0b2267"
   ]
 }
