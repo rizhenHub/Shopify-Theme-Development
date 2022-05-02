@@ -133,6 +133,49 @@
         "padding_bottom": 36
       }
     },
+    "1651456169c626772d": {
+      "type": "image-with-text",
+      "blocks": {
+        "1651456169d311fabc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "+3,700 five stars reviews.",
+            "heading_size": "h1"
+          }
+        },
+        "1651456169d311fabc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"https:\/\/emojipedia.org\/star\/\">⭐<\/a><a href=\"https:\/\/emojipedia.org\/star\/\">⭐<\/a><a href=\"https:\/\/emojipedia.org\/star\/\">⭐<\/a><a href=\"https:\/\/emojipedia.org\/star\/\">⭐<\/a><a href=\"https:\/\/emojipedia.org\/star\/\">⭐<\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "1651456169d311fabc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651456169d311fabc-0",
+        "1651456169d311fabc-1",
+        "1651456169d311fabc-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -167,6 +210,7 @@
     "1651202797c33e4570",
     "rich_text",
     "multicolumn",
+    "1651456169c626772d",
     "featured_collection"
   ]
 }
