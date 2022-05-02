@@ -196,6 +196,50 @@
         "image": "shopify:\/\/shop_images\/as-seen-on-color-desktop2-peach_1500x_74bd5c4b-a45c-48d1-8dec-a7e87df2b3ef.gif",
         "image_2": "shopify:\/\/shop_images\/as-seen-on-mobile-peach_750x_1d3e7385-3e19-41e6-8ce4-d5c5a17cd744.gif"
       }
+    },
+    "1651461484640dd290": {
+      "type": "image-with-text",
+      "blocks": {
+        "165146148419374fc3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SAFE TO USE & REUSABLE",
+            "heading_size": "h1"
+          }
+        },
+        "165146148419374fc3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The soft magnet design is gentle on skin, and the ergonomic shape is suitable for most eye shapes.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "165146148419374fc3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165146148419374fc3-0",
+        "165146148419374fc3-1",
+        "165146148419374fc3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/b.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -203,6 +247,7 @@
     "image-with-text",
     "product-recommendations",
     "1651461082ce0b2267",
-    "1651460511003418ba"
+    "1651460511003418ba",
+    "1651461484640dd290"
   ]
 }
