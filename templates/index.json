@@ -32,8 +32,8 @@
         "165120279745fbd6ff-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "GET YOURS NOW",
+            "button_link": "shopify:\/\/products\/test-product"
           }
         }
       },
