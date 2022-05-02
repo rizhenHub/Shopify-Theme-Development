@@ -57,30 +57,6 @@
             "content": "<p>Free shipping on <strong>orders over $50<\/strong>. Find your perfect eye lashes with <strong>no hassle<\/strong> because we cover all return costs.<\/p>",
             "page": ""
           }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -92,10 +68,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-1",
-        "collapsible-row-2",
-        "collapsible-row-3",
-        "share"
+        "collapsible-row-1"
       ],
       "settings": {
         "enable_sticky_info": true,
