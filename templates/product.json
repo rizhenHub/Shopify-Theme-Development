@@ -170,6 +170,27 @@
         "padding_bottom": 28
       }
     },
+    "1651464860895cee27": {
+      "type": "rich-text",
+      "blocks": {
+        "1651464860cad6feff-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "YOUR LASH ROUTINE JUST GOT EASIER AND BETTER",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1651464860cad6feff-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "1651461082ce0b2267": {
       "type": "multicolumn",
       "blocks": {
@@ -210,7 +231,7 @@
         "1651461082372fa8d0-2"
       ],
       "settings": {
-        "title": "Easier & Better",
+        "title": "",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "adapt",
@@ -230,43 +251,6 @@
       "type": "infinite-carousel",
       "settings": {
       }
-    },
-    "1651464860895cee27": {
-      "type": "rich-text",
-      "blocks": {
-        "1651464860cad6feff-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "YOUR LASH ROUTINE JUST GOT EASIER AND BETTER",
-            "heading_size": "h1"
-          }
-        },
-        "1651464860cad6feff-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "1651464860cad6feff-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1651464860cad6feff-0",
-        "1651464860cad6feff-1",
-        "1651464860cad6feff-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -274,8 +258,8 @@
     "image-with-text",
     "1651461484640dd290",
     "product-recommendations",
+    "1651464860895cee27",
     "1651461082ce0b2267",
-    "1651461871e6de5ee1",
-    "1651464860895cee27"
+    "1651461871e6de5ee1"
   ]
 }
