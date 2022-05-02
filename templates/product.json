@@ -117,6 +117,42 @@
         "padding_bottom": 36
       }
     },
+    "1651461484640dd290": {
+      "type": "image-with-text",
+      "blocks": {
+        "165146148419374fc3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "SAFE TO USE & REUSABLE",
+            "heading_size": "h1"
+          }
+        },
+        "165146148419374fc3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The soft magnet design is gentle on skin, and the ergonomic shape is suitable for most eye shapes.<br\/><br\/><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "165146148419374fc3-0",
+        "165146148419374fc3-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ww.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -190,42 +226,6 @@
         "padding_bottom": 36
       }
     },
-    "1651461484640dd290": {
-      "type": "image-with-text",
-      "blocks": {
-        "165146148419374fc3-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "SAFE TO USE & REUSABLE",
-            "heading_size": "h1"
-          }
-        },
-        "165146148419374fc3-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The soft magnet design is gentle on skin, and the ergonomic shape is suitable for most eye shapes.<br\/><br\/><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "165146148419374fc3-0",
-        "165146148419374fc3-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ww.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1651461871e6de5ee1": {
       "type": "infinite-carousel",
       "settings": {
@@ -235,9 +235,9 @@
   "order": [
     "main",
     "image-with-text",
+    "1651461484640dd290",
     "product-recommendations",
     "1651461082ce0b2267",
-    "1651461484640dd290",
     "1651461871e6de5ee1"
   ]
 }
