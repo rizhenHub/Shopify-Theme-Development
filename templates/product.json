@@ -54,7 +54,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "<p>Free shipping on orders over $50. Find your perfect eye lashes with no hassle because we cover all return costs.<\/p>",
+            "content": "<p>Free shipping on <strong>orders over $50<\/strong>. Find your perfect eye lashes with <strong>no hassle<\/strong> because we cover all return costs.<\/p>",
             "page": ""
           }
         },
