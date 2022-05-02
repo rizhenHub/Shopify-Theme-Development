@@ -133,11 +133,19 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "1651460511003418ba": {
+      "type": "custom-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/as-seen-on-color-desktop2-peach_1500x_74bd5c4b-a45c-48d1-8dec-a7e87df2b3ef.gif",
+        "image_2": "shopify:\/\/shop_images\/as-seen-on-mobile-peach_750x_1d3e7385-3e19-41e6-8ce4-d5c5a17cd744.gif"
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
-    "product-recommendations"
+    "product-recommendations",
+    "1651460511003418ba"
   ]
 }
