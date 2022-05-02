@@ -153,8 +153,8 @@
         "1651456169d311fabc-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/test-product"
           }
         }
       },
