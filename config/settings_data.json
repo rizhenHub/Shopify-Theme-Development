@@ -132,35 +132,27 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
+          "dc55c2d6-a1b2-4e67-bc5f-d44fae12d270": {
+            "type": "text",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Customer Service",
+              "subtext": "<p>Mon-Sat : 8am-10pm<br\/>Sunday: 10am-5pm<\/p>"
             }
           },
-          "footer-1": {
+          "4e4e764b-0003-4443-b09c-e391ead35b73": {
             "type": "link_list",
             "settings": {
               "heading": "Info",
               "menu": "footer"
             }
-          },
-          "footer-2": {
-            "type": "text",
-            "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1",
-          "footer-2"
+          "dc55c2d6-a1b2-4e67-bc5f-d44fae12d270",
+          "4e4e764b-0003-4443-b09c-e391ead35b73"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "background-2",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
