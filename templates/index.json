@@ -164,7 +164,7 @@
         "1651456169d311fabc-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Five_Star_Review_Graphic_for_Facebook_Social_Media.png",
+        "image": "shopify:\/\/shop_images\/rev.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -172,7 +172,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }
